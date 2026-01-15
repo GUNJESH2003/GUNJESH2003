@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineering student with a passion for coding and technology. I enjoy working on projects that challenge me and help me grow as an engineer. Exploring languages, frameworks, and open-source contributions.
+Engineering student with a passion for coding and technology. I enjoy working on projects that challenge me and help me grow as an engineer. Exploring new languages, frameworks, and open-source contributions.
 
 
 ## 🌐 Socials:
